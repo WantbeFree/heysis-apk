@@ -9,9 +9,9 @@ instead: updates arrive on their own.
 (latest version, Android 12 or newer). Each release lists its SHA-256.
 
 How to install, and what works without Google services:
-https://heysiss.vercel.app/android
+https://heysiss.vercel.app/huawei
 
 ---
 
 HeySis для Android-телефонов без Google Play, например Huawei. Если Google Play
-есть, ставьте приложение оттуда. Инструкция: https://heysiss.vercel.app/ru/android
+есть, ставьте приложение оттуда. Инструкция: https://heysiss.vercel.app/ru/huawei
